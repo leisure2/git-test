@@ -14,6 +14,7 @@ class test one(){
 	System.out.print("11111111111111");
 	System.out.print("44444444444444");
 	System.out.print(我重新修改了代码);
+	System.out.print(”我是你的小弟我帮你修改了下代码“);
 	
     }
 
